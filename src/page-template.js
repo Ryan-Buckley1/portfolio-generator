@@ -10,7 +10,7 @@ const generateAbout = (aboutText) => {
   `;
 };
 
-const generateProjects = (projectArr) => {
+const generateProjects = (projectsArr) => {
   return `
     <section class="my-3" id="portfolio">
       <h2 class="text-dark bg-primary p-2 display-inline-block">Work</h2>
